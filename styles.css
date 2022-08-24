@@ -626,6 +626,7 @@
 }
 
 .section1__button_container button {
+    color: rgb(65, 65, 65);
     padding: 5px;
     width: 90px;
     display: flex;
