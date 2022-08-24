@@ -169,7 +169,12 @@
         border-radius: 10px;
     }
 
-    .input__container__location,
+    .input__container__location {
+        padding: 15px;
+        border-radius: 10px;
+        width: 82.87%;
+    }
+
     .input__container__search {
         padding: 15px;
         border-radius: 10px;
@@ -178,7 +183,7 @@
 
     .location .fa-sort-down {
         color: rgb(65, 65, 65);
-        transform: translate(-5%, -20%);
+        transform: translate(0, -20%);
     }
 
     .hero__section__container {
